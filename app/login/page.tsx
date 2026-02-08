@@ -97,7 +97,7 @@ function LoginContent() {
                         Task Master AI
                     </h1>
                     <p className="text-muted-foreground text-sm max-w-xs">
-                        AI 기반의 스마트한 할 일 관리 서비스로<br /> 당신의 생산성을 극대화하세요.
+                        AI가 도와주는 스마트한 할 일 관리
                     </p>
                 </div>
 

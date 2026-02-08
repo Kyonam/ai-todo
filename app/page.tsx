@@ -278,6 +278,9 @@ export default function MainPage() {
           <aside className="lg:w-1/3 space-y-6">
             <div className="sticky top-24">
               <div className="mb-4">
+                <p className="text-sm text-primary font-medium mb-2">
+                  AI가 도와주는 스마트한 할 일 관리
+                </p>
                 <h2 className="text-lg font-semibold flex items-center gap-2">
                   <CheckCircle2 className="h-5 w-5 text-primary" />
                   {editTodo ? "할 일 수정" : "새로운 할 일"}
